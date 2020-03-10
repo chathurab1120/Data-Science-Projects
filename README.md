@@ -1,3 +1,2 @@
 # Projects
-My Data Science projects
-Data Science projects with presentations
+My Data Science projects with presentations
